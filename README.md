@@ -8,3 +8,5 @@ https://gitlab.com/kenichi.shibata/book
 
 # Other
 https://github.com/hmemcpy/milewski-ctfp-pdf
+
+https://drive.google.com/drive/folders/19N_sjpt1kCzW9cgJItEoZgfgm6YOOJtn
